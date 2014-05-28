@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EYE SPY</string>
+    <string name="action_settings">Settings</string>
+    <string name="create_game">Create a New Game</string>
+    <string name="existing_game">Play a Game</string>
+    <string name="game_list">Choose a Game</string>
+    <string name="create_game_intro">Create a new game!</string>
+    <string name="picture">Picture</string>
+    <string name="capture">Launch Camera</string>
+    <string name="hint">Hint</string>
+    <string name="answer">Answer</string>
+    <string name="hint_placeholder">Type a hint</string>
+    <string name="answer_placeholder">Type in the answer</string>
+    <string name="game1">I Spy</string>
+    <string name="game2">Ass or Elbow</string>
+    <string name="gameType">Choose your game</string>
+    <string name="captureAndCrop">Capture and Crop an Image</string>
+    <string name="placeholder_text">This is placeholder Text</string>
+    <string name="submit_answer">Submit Answer</string>
+    <string name="play_game">Look Closely...</string>
+    <string name="winner">Nice eyes!</string>
+    <string name="loser">Keep looking...</string>
+    <string name="choose_game">Pick a Game to Play</string>
+    <string name="puzzle_preview">Puzzle Preview</string>
+    <string name="answer_preview">Answer Preview</string>
+    <string name="guess_prompt">Enter Your Guess Here</string>
+    <string name="congrats_win">You guessed it! Congratulations!</string>
+    <string name="home">Home</string>
+    <string name="choose_game_again">Choose Another Game</string>
+    <string name="answer_reveal">The answer was...</string>
+    <string name="guess_reveal">Your guess was...</string>
+    <string name="console_loss">Sorry, that wasn\'t right. Try again?</string>
+    <string name="try_again">Try Again</string>
+</resources>
